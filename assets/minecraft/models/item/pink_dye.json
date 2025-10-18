@@ -1,0 +1,86 @@
+{
+  "textures": { "layer0": "item/pink_dye" },
+  "parent": "item/generated",
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "smcc:pkw/stone_lantern"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "smcc:pkw/frog_statue"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "smcc:pkw/wall_scroll"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "smcc:pkw/lantern_crown"
+    },
+    {
+      "predicate": { "custom_model_data": 5 },
+      "model": "smcc:pkw/lantern_white"
+    },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "smcc:pkw/lantern_red"
+    },
+    {
+      "predicate": { "custom_model_data": 7 },
+      "model": "smcc:pkw/sign_bonus"
+    },
+    {
+      "predicate": { "custom_model_data": 8 },
+      "model": "smcc:pkw/sign_mcc"
+    },
+    {
+      "predicate": { "custom_model_data": 9 },
+      "model": "smcc:pkw/sign_easy"
+    },
+    {
+      "predicate": { "custom_model_data": 10 },
+      "model": "smcc:pkw/sign_medium"
+    },
+    {
+      "predicate": { "custom_model_data": 11 },
+      "model": "smcc:pkw/sign_hard"
+    },
+    {
+      "predicate": { "custom_model_data": 12 },
+      "model": "smcc:pkw/medal_stone"
+    },
+    {
+      "predicate": { "custom_model_data": 13 },
+      "model": "smcc:pkw/medal_bronze"
+    },
+    {
+      "predicate": { "custom_model_data": 14 },
+      "model": "smcc:pkw/medal_silver"
+    },
+    {
+      "predicate": { "custom_model_data": 15 },
+      "model": "smcc:pkw/medal_gold"
+    },
+    {
+      "predicate": { "custom_model_data": 16 },
+      "model": "smcc:pkw/frog_trophy_bronze"
+    },
+    {
+      "predicate": { "custom_model_data": 17 },
+      "model": "smcc:pkw/frog_trophy_silver"
+    },
+    {
+      "predicate": { "custom_model_data": 18 },
+      "model": "smcc:pkw/frog_trophy_gold"
+    },
+    {
+      "predicate": { "custom_model_data": 19 },
+      "model": "smcc:pkw/medal_outline"
+    },
+    {
+      "predicate": { "custom_model_data": 20 },
+      "model": "smcc:pkw/frog_outline"
+    }
+  ]
+}

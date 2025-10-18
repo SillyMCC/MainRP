@@ -1,0 +1,51 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "minecraft:item/leather_horse_armor" },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 50 },
+      "model": "smcc:hub/birthday_balloon"
+    },
+    {
+      "predicate": { "custom_model_data": 51 },
+      "model": "smcc:hub/birthday_cloth"
+    },
+    {
+      "predicate": { "custom_model_data": 52 },
+      "model": "smcc:hub/birthday_banner"
+    },
+    { "predicate": { "custom_model_data": 53 }, "model": "smcc:hub/sunbed" },
+    {
+      "predicate": { "custom_model_data": 54 },
+      "model": "smcc:hub/tiki_sunbed"
+    },
+    {
+      "predicate": { "custom_model_data": 100 },
+      "model": "smcc:rsr/hand_cannon_empty_0"
+    },
+    {
+      "predicate": { "custom_model_data": 101 },
+      "model": "smcc:rsr/hand_cannon_empty_1"
+    },
+    {
+      "predicate": { "custom_model_data": 102 },
+      "model": "smcc:rsr/hand_cannon_empty_2"
+    },
+    {
+      "predicate": { "custom_model_data": 103 },
+      "model": "smcc:rsr/hand_cannon_empty_3"
+    },
+    {
+      "predicate": { "custom_model_data": 104 },
+      "model": "smcc:rsr/hand_cannon_loaded_1"
+    },
+    {
+      "predicate": { "custom_model_data": 105 },
+      "model": "smcc:rsr/hand_cannon_loaded_2"
+    },
+    {
+      "predicate": { "custom_model_data": 106 },
+      "model": "smcc:rsr/hand_cannon_loaded_3"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "minecraft:item/snowball" },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "smcc:hub/coconut" },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "minecraft:item/blockybomb"
+    }
+  ]
+}

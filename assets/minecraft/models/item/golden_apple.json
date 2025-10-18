@@ -1,0 +1,18 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "item/golden_apple" },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "smcc:hub/burger" },
+    { "predicate": { "custom_model_data": 2 }, "model": "smcc:hub/taco" },
+    { "predicate": { "custom_model_data": 3 }, "model": "smcc:hub/fries" },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "smcc:hub/pineapple"
+    },
+    { "predicate": { "custom_model_data": 5 }, "model": "smcc:hub/popcorn" },
+    {
+      "predicate": { "custom_model_data": 6 },
+      "model": "smcc:hub/chocolate_coin"
+    }
+  ]
+}

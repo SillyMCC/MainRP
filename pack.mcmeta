@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 34,
+    "description": "SMCC Event Global Resource Pack"
+  },
+  "meta": {
+    "game_version": "1.21"
+  }
+}
