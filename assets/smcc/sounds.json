@@ -507,6 +507,7 @@
   "music.finalannounce": { "sounds": ["smcc:music/finalannounce"] },
   "music.parkourtag": { "sounds": ["smcc:music/parkourtag"] },
   "music.railroadrush": { "sounds": ["smcc:music/railroadrush"] },
+  "music.bingo_but_fast": { "sounds": ["smcc:music/bingo_but_fast"] },
   "music.terra_swoop_force": { "sounds": ["smcc:music/terraswoopforce"] },
   "music.hub.music": { "sounds": ["smcc:music/hub_music"] },
   "music.hub.preevent": { "sounds": ["smcc:music/hub_preevent"] },
