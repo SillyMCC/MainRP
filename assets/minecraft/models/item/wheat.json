@@ -544,6 +544,10 @@
     {
       "predicate": { "custom_model_data": 150 },
       "model": "smcc:hub/sponsor_sign"
+    },
+    {
+      "predicate": { "custom_model_data": 151 },
+      "model": "smcc:rrr/hard_hat"
     }
   ]
 }
