@@ -111,6 +111,20 @@
       "ascent": 7,
       "height": 8
     },
+		{
+  "type": "bitmap",
+  "file": "minecraft:unicode/hub/vote_1.png",
+  "height": 9,
+  "ascent": 8,
+  "chars": ["\uE012"]
+		},
+  {
+  "type": "bitmap",
+  "file": "minecraft:unicode/hub/vote_2.png",
+  "height": 9,
+  "ascent": 8,
+  "chars": ["\uE013"]
+		},
     {
       "type": "bitmap",
       "file": "minecraft:unicode/hub/coin_particles_1.png",
