@@ -499,6 +499,7 @@
   "dodgebolt.finalwin": { "sounds": ["smcc:dodgebolt/finalwin"] },
   "music.ace_race_main": { "sounds": ["smcc:music/ace_race_main"] },
   "music.battle_box_main": { "sounds": ["smcc:music/battle_box_main"] },
+  "music.spookydonut": { "sounds": ["smcc:music/spookydonut"] },
   "music.decisiondome": { "sounds": ["smcc:music/decisiondome"] },
   "music.dodgebolt": { "sounds": ["smcc:music/dodgebolt"] },
   "music.dodgebolt_fast": { "sounds": ["smcc:music/dodgebolt_fast"] },
