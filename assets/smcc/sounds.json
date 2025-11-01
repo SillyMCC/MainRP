@@ -506,6 +506,7 @@
   "music.eventintro": { "sounds": ["smcc:music/eventintro"] },
   "music.finalannounce": { "sounds": ["smcc:music/finalannounce"] },
   "music.parkourtag": { "sounds": ["smcc:music/parkourtag"] },
+  "music.sandsoftime": { "sounds": ["smcc:music/sandsoftime"] },
   "music.railroadrush": { "sounds": ["smcc:music/railroadrush"] },
   "music.build_mart": { "sounds": ["smcc:music/build_mart"] },
   "music.bingo_but_fast": { "sounds": ["smcc:music/bingo_but_fast"] },
