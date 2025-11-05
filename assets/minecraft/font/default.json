@@ -734,6 +734,13 @@
       "height": 1200,
       "chars": ["\uFDFF"]
     },
+    {
+      "type": "bitmap",
+      "file": "smcc:custom/_font/pink_background.png",
+      "ascent": 250,
+      "height": 1200,
+      "chars": ["﷿"]
+    },
         {
       "type": "bitmap",
       "file": "mcc:_fonts/team/aqua.png",
