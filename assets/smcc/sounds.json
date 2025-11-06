@@ -139,6 +139,22 @@
       }
     ]
   },
+
+  "games.ace_race.wind_burst": {
+    "replace": false,
+    "sounds": [
+      {
+        "name": "smcc:games.ace_race.wind_burst",
+        "volume": 0.7,
+        "pitch": 1.0,
+        "weight": 1,
+        "stream": false,
+        "attenuation_distance": 16,
+        "preload": false,
+        "channels": 2
+      }
+    ]
+  },
   "games.global.countdown.123": {
     "replace": false,
     "sounds": [
