@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "unicode/icons/bbf"
+        "layer0": "mineraft:unicode/icons/bbf"
     }
 }
