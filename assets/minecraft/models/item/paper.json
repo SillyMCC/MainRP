@@ -18,10 +18,10 @@
     },
 
     {
-        "predicate": {
-            "custom_model_data": 400
-        },
-        "model": "minecraft:item/bingo_card"
+      "predicate": {
+       "custom_model_data": 400
+       },
+        "model": "smcc:bbf/bingo_card"
     }
   ]
 }
