@@ -21,7 +21,7 @@
       "predicate": {
        "custom_model_data": 400
        },
-        "model": "smcc:bbf/bingo_card"
+        "model": "minecraft:item/bingo_card"
     }
   ]
 }
