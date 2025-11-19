@@ -511,6 +511,16 @@
       "smcc:ui/click_normal_3"
     ]
   },
+
+  "dodgebolt.arrow_impact": {
+    "sounds": [
+      "smcc:dodgebolt/arrow_impact1",
+      "smcc:dodgebolt/arrow_impact2",
+      "smcc:dodgebolt/arrow_impact3",
+      "smcc:dodgebolt/arrow_impact4",
+      "smcc:dodgebolt/arrow_impact5"
+    ]
+  },
   "dodgebolt.arena_shrink": { "sounds": ["smcc:dodgebolt/arena_shrink"] },
   "dodgebolt.finalwin": { "sounds": ["smcc:dodgebolt/finalwin"] },
   "music.ace_race_main": { "sounds": ["smcc:music/ace_race_main"] },
